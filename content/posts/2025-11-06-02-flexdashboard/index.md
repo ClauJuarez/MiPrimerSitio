@@ -1,0 +1,7 @@
+---
+title: Ejemplo de flexdashboard
+author: ''
+date: '2025-11-06'
+---
+
+[Ver el dashbord interactivo](/dashbords/flex_ejemplo.html)
