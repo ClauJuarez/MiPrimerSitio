@@ -2,7 +2,7 @@
 title: ejemplo-rmarkdown
 author: ''
 date: '2025-11-06'
-output: html_document
+output: html_page
 ---
 
 ```{r setup, include=FALSE}
